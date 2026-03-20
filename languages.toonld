@@ -1,0 +1,10 @@
+@context:
+  l: "#"
+  Lang: "#Lang"
+@graph[2]{@id,@type}:
+  rust,Lang
+  bash,Lang
+  go,Lang
+  c,Lang
+  cpp,Lang
+  python,Lang
